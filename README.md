@@ -8,10 +8,10 @@ This project contain all three ways to control the color (hue and saturation, xy
 Easily control over bulb and groups brightness and color.
 
 # Folders:
-<pre>  Gerber      # PCB Gerber files, easy to order from eg. Seeedstudio.
-  Src         # Source code for the controller.
-  Components  # Description of components used in this project.
-  Schematic   # Schematic for the project</pre>
+<pre>Gerber      # PCB Gerber files, easy to order from eg. Seeedstudio.
+Src         # Source code for the controller.
+Components  # Description of components used in this project.
+Schematic   # Schematic for the project</pre>
 
 # Future requests
 External sensors within the controller eg. pir sensor.
