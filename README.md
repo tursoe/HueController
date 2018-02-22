@@ -9,9 +9,12 @@ Easily control over bulb and groups brightness and color.
 
 # Folders:
 <pre>Gerber      # PCB Gerber files, easy to order from eg. Seeedstudio.
-Src         # Source code for the controller.
+Source code # Source code for the controller.
 Components  # Description of components used in this project.
 Schematic   # Schematic for the project</pre>
+
+# Version history
+1.0.000 init version. Controlling single bulbs on and off.
 
 # Future requests
 External sensors within the controller eg. pir sensor.
